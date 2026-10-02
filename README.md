@@ -1,6 +1,6 @@
 > **Live demo:** [https://ember-oak-restaurant-website.vercel.app](https://ember-oak-restaurant-website.vercel.app)
 
-![Demo screenshot](screenshots/desktop-hero.png)
+![Project cover — as shown on Upwork](screenshots/upwork-cover.png)
 
 ---
 
